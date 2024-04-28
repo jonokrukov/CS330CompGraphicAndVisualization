@@ -1,1 +1,1 @@
-# CS330CompGraphic-Visualization
+# CS330CompGraphicAndVisualization
